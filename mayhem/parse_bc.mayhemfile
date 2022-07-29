@@ -1,0 +1,5 @@
+project: llvm-ir-rust
+target: parse-bc
+
+cmds:
+  - cmd: /parse_bc
